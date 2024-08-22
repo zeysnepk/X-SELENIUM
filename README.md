@@ -35,7 +35,7 @@ This project is an automation script that interacts with Twitter/X using the Sel
    
 ## Usage
 
-1. Run the Scrip:
+1. Run the Script:
 
       ```zsh
    python x_automation.py
