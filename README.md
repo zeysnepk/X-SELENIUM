@@ -25,7 +25,6 @@ This project is an automation script that interacts with Twitter/X using the Sel
 
       ```zsh
    git clone https://github.com/zeysnepk/X-SELENIUM.git
-   cd twitter-selenium-automation
 
 2. **Run login.py**:
 
